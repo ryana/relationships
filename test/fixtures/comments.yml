@@ -7,3 +7,15 @@ one:
 two:
   post_id: 1
   content: MyText
+
+# == Schema Information
+#
+# Table name: comments
+#
+#  id         :integer         not null, primary key
+#  post_id    :integer
+#  content    :text
+#  created_at :datetime
+#  updated_at :datetime
+#
+

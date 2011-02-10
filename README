@@ -6,6 +6,7 @@ To get started:
   rake explain:go         # prints out some stuff
 
 This app was written in response to http://modernsage.wordpress.com/2011/02/05/rails-3-0-arel-acrobatics/
+Blog post at: http://ryanangilly.com/post/3207048558/stinky-magic
 
 In that blog post, my buddy Chris is doing some stuff with Arel/AR that, in my opinion, is backwards.
 It's causing him to extend ActiveRecord::Base in a way that I feel is unnecessary, and potentially
